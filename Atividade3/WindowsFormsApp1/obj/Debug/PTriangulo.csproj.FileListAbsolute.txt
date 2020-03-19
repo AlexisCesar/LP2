@@ -1,0 +1,10 @@
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\PTriangulo\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\PTriangulo\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\PTriangulo\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\PTriangulo\WindowsFormsApp1\obj\Debug\PTriangulo.csprojAssemblyReference.cache
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\PTriangulo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\PTriangulo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\PTriangulo\WindowsFormsApp1\obj\Debug\PTriangulo.csproj.GenerateResource.cache
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\PTriangulo\WindowsFormsApp1\obj\Debug\PTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\PTriangulo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\PTriangulo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
