@@ -1,0 +1,10 @@
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\PSalLiquido\PSalLiquido\bin\Debug\PSalLiquido.exe.config
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\PSalLiquido\PSalLiquido\bin\Debug\PSalLiquido.exe
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\PSalLiquido\PSalLiquido\bin\Debug\PSalLiquido.pdb
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\PSalLiquido\PSalLiquido\obj\Debug\PSalLiquido.csprojAssemblyReference.cache
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\PSalLiquido\PSalLiquido\obj\Debug\PSalLiquido.Form1.resources
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\PSalLiquido\PSalLiquido\obj\Debug\PSalLiquido.Properties.Resources.resources
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\PSalLiquido\PSalLiquido\obj\Debug\PSalLiquido.csproj.GenerateResource.cache
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\PSalLiquido\PSalLiquido\obj\Debug\PSalLiquido.csproj.CoreCompileInputs.cache
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\PSalLiquido\PSalLiquido\obj\Debug\PSalLiquido.exe
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\PSalLiquido\PSalLiquido\obj\Debug\PSalLiquido.pdb
