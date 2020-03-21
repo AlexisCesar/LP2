@@ -1,0 +1,10 @@
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\prjPeso\prjPeso\bin\Debug\prjPeso.exe.config
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\prjPeso\prjPeso\bin\Debug\prjPeso.exe
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\prjPeso\prjPeso\bin\Debug\prjPeso.pdb
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\prjPeso\prjPeso\obj\Debug\prjPeso.csprojAssemblyReference.cache
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\prjPeso\prjPeso\obj\Debug\prjPeso.Form1.resources
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\prjPeso\prjPeso\obj\Debug\prjPeso.Properties.Resources.resources
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\prjPeso\prjPeso\obj\Debug\prjPeso.csproj.GenerateResource.cache
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\prjPeso\prjPeso\obj\Debug\prjPeso.csproj.CoreCompileInputs.cache
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\prjPeso\prjPeso\obj\Debug\prjPeso.exe
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\prjPeso\prjPeso\obj\Debug\prjPeso.pdb
