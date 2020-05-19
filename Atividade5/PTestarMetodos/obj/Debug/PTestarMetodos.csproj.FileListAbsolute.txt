@@ -1,0 +1,14 @@
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\PTestarMetodos\PTestarMetodos\bin\Debug\PTestarMetodos.exe.config
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\PTestarMetodos\PTestarMetodos\bin\Debug\PTestarMetodos.exe
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\PTestarMetodos\PTestarMetodos\bin\Debug\PTestarMetodos.pdb
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\PTestarMetodos\PTestarMetodos\obj\Debug\PTestarMetodos.csprojAssemblyReference.cache
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\PTestarMetodos\PTestarMetodos\obj\Debug\PTestarMetodos.frmPrincipal.resources
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\PTestarMetodos\PTestarMetodos\obj\Debug\PTestarMetodos.Properties.Resources.resources
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\PTestarMetodos\PTestarMetodos\obj\Debug\PTestarMetodos.csproj.GenerateResource.cache
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\PTestarMetodos\PTestarMetodos\obj\Debug\PTestarMetodos.csproj.CoreCompileInputs.cache
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\PTestarMetodos\PTestarMetodos\obj\Debug\PTestarMetodos.exe
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\PTestarMetodos\PTestarMetodos\obj\Debug\PTestarMetodos.pdb
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\PTestarMetodos\PTestarMetodos\obj\Debug\PTestarMetodos.frmExercicio2.resources
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\PTestarMetodos\PTestarMetodos\obj\Debug\PTestarMetodos.frmExercicio3.resources
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\PTestarMetodos\PTestarMetodos\obj\Debug\PTestarMetodos.frmExercicio4.resources
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\PTestarMetodos\PTestarMetodos\obj\Debug\PTestarMetodos.frmExercicio5.resources
