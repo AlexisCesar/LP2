@@ -1,0 +1,14 @@
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\Atividade6\Atividade6\obj\Debug\Atividade6.csprojAssemblyReference.cache
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\Atividade6\Atividade6\obj\Debug\Atividade6.Principal.resources
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\Atividade6\Atividade6\obj\Debug\Atividade6.Properties.Resources.resources
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\Atividade6\Atividade6\obj\Debug\Atividade6.csproj.GenerateResource.cache
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\Atividade6\Atividade6\obj\Debug\Atividade6.csproj.CoreCompileInputs.cache
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\Atividade6\Atividade6\bin\Debug\Atividade6.exe.config
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\Atividade6\Atividade6\bin\Debug\Atividade6.exe
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\Atividade6\Atividade6\bin\Debug\Atividade6.pdb
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\Atividade6\Atividade6\obj\Debug\Atividade6.exe
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\Atividade6\Atividade6\obj\Debug\Atividade6.pdb
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\Atividade6\Atividade6\obj\Debug\Atividade6.Exercicio3.resources
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\Atividade6\Atividade6\obj\Debug\Atividade6.Exercicio1.resources
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\Atividade6\Atividade6\obj\Debug\Atividade6.Exercicio2.resources
+C:\Users\ALEXISCESARRUIZDEALM\Desktop\Atividade6\Atividade6\obj\Debug\Atividade6.Exercicio4.resources
